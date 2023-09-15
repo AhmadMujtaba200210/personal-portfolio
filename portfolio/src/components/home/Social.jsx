@@ -19,6 +19,9 @@ const Social = () => {
             <i className="uil uil-gitlab"></i>
         </a>
 
+        <a href="https://twitter.com/AhmadMu25680737" className="home__social-icon" target='_blank'>
+            <i className="uil uil-twitter-alt"></i>
+        </a>
     </div>
   )
 }
