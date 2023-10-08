@@ -1,0 +1,5 @@
+.skills__icon{
+    font-size: 50px;
+    color: var(--title-color);
+    margin-bottom: var(--mb-0-5);
+}

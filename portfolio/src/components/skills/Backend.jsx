@@ -7,56 +7,58 @@ const Backend = () => {
         <div className="skills__box">
             <div className="skills__group">
                 <div className="skills__data">
-                    <i class='bx  bx-badge-check'></i>
-
-                    <div>
-                        <h3 className="skills__name">Java</h3>
-                        <span className="skills__level">Intermediate</span>
-                    </div>
+                <i class='bx bxl-java skills__icon' ></i>
                 </div>
-                <div className="skills__data">
-                    <i class='bx  bx-badge-check'></i>
 
-                    <div>
-                        <h3 className="skills__name">Spring  & SpringBoot</h3>
-                        <span className="skills__level">Intermediate</span>
-                    </div>
+                <div className="skills__data">
+                <i class='bx bxl-spring-boot skills__icon' ></i>
                 </div>
-                <div className="skills__data">
-                    <i class='bx  bx-badge-check'></i>
 
-                    <div>
-                        <h3 className="skills__name">Git & Github</h3>
-                        <span className="skills__level">Intermediate</span>
-                    </div>
+                <div className="skills__data">
+                <i class='bx bxl-github skills__icon' ></i>
                 </div>
                
             </div>
 
             <div className="skills__group">
                 <div className="skills__data">
-                    <i class='bx  bx-badge-check'></i>
-
-                    <div>
-                        <h3 className="skills__name">Python</h3>
-                        <span className="skills__level">Intermediate</span>
-                    </div>
+                <i class='bx bxl-docker skills__icon' ></i>
                 </div>
-                <div className="skills__data">
-                    <i class='bx  bx-badge-check'></i>
 
-                    <div>
-                        <h3 className="skills__name">C++</h3>
-                        <span className="skills__level">Intermediate</span>
-                    </div>
+                <div className="skills__data">
+                   <i class='bx bxl-c-plus-plus skills__icon' ></i>
                 </div>
-                <div className="skills__data">
-                    <i class='bx  bx-badge-check'></i>
 
-                    <div>
-                        <h3 className="skills__name">Docker</h3>
-                        <span className="skills__level">Intermediate</span>
-                    </div>
+                <div className="skills__data">
+                <i class='bx bxl-python skills__icon' ></i>
+                </div>
+            </div>
+
+            <div className="skills__group">
+                <div className="skills__data">
+                <i class='bx bxl-aws skills__icon' ></i>
+                </div>
+
+                <div className="skills__data">
+                   <i class='bx bxl-postgresql skills__icon' ></i>
+                </div>
+
+                <div className="skills__data">
+                <i class='bx bxl-mongodb skills__icon' ></i>
+                </div>
+            </div>
+
+            <div className="skills__group">
+                <div className="skills__data">
+                <i class='bx bxl-nodejs skills__icon' ></i>
+                </div>
+
+                <div className="skills__data">
+                   <i class='bx bxl-graphql skills__icon' ></i>
+                </div>
+
+                <div className="skills__data">
+                <i class='bx bxl-gitlab skills__icon' ></i>
                 </div>
             </div>
         </div>
