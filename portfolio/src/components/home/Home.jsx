@@ -3,7 +3,6 @@ import "./Home.css";
 import Social from './Social';
 import Data from './Data';
 import ScrollDown from './ScrollDown';
-import Quote from './Quote';
  const Home = () => {
   return (
     <section className="home section" id="home">
